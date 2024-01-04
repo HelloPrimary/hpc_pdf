@@ -1,6 +1,6 @@
 #import "PdfxPlugin.h"
-#if __has_include(<hpc_pdf/pdfx-Swift.h>)
-#import <hpc_pdf/pdfx-Swift.h>
+#if __has_include(<hpc_pdf/hpc_pdf-Swift.h>)
+#import <hpc_pdf/hpc_pdf-Swift.h>
 #else
 // Support project import fallback if the generated compatibility header
 // is not copied when this plugin is created as a library.
