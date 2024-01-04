@@ -4,7 +4,7 @@ import 'dart:js' as js;
 import 'dart:typed_data';
 
 import 'package:js/js_util.dart';
-import 'package:pdfx/src/renderer/web/pdfjs.dart';
+import 'package:hpc_pdf/src/renderer/web/pdfjs.dart';
 
 class Page {
   Page({

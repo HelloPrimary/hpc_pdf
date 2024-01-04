@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'dart:typed_data' show Uint8List;
 
-import 'package:pdfx/src/renderer/has_pdf_support.dart';
-import 'package:pdfx/src/renderer/interfaces/platform.dart';
+import 'package:hpc_pdf/src/renderer/has_pdf_support.dart';
+import 'package:hpc_pdf/src/renderer/interfaces/platform.dart';
 
 import 'page.dart';
 

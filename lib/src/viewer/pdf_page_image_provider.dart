@@ -2,7 +2,7 @@ import 'dart:typed_data';
 import 'dart:ui';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
-import 'package:pdfx/src/renderer/interfaces/page.dart';
+import 'package:hpc_pdf/src/renderer/interfaces/page.dart';
 
 class PdfPageImageProvider extends ImageProvider<PdfPageImageProvider> {
   const PdfPageImageProvider(

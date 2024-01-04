@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pdfx/pdfx.dart';
+import 'package:hpc_pdf/pdfx.dart';
 
 class SimplePage extends StatefulWidget {
   const SimplePage({Key? key}) : super(key: key);

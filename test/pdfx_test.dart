@@ -4,9 +4,9 @@ import 'dart:typed_data';
 import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:pdfx/pdfx.dart';
-import 'package:pdfx/src/renderer/interfaces/platform.dart';
-import 'package:pdfx/src/renderer/io/platform_method_channel.dart';
+import 'package:hpc_pdf/pdfx.dart';
+import 'package:hpc_pdf/src/renderer/interfaces/platform.dart';
+import 'package:hpc_pdf/src/renderer/io/platform_method_channel.dart';
 
 import 'image.dart';
 

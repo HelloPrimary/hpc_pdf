@@ -2,7 +2,7 @@ import 'dart:ui' as ui;
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:pdfx/src/renderer/rgba_data.dart';
+import 'package:hpc_pdf/src/renderer/rgba_data.dart';
 
 import '../html.dart' as html;
 import '../js_util.dart' as js_util;

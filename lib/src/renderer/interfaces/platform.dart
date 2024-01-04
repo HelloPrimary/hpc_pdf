@@ -1,9 +1,9 @@
 import 'dart:async';
 import 'dart:typed_data';
 
-import 'package:pdfx/src/renderer/interfaces/document.dart';
-import 'package:pdfx/src/renderer/io/platform_method_channel.dart';
-import 'package:pdfx/src/renderer/io/platform_pigeon.dart';
+import 'package:hpc_pdf/src/renderer/interfaces/document.dart';
+import 'package:hpc_pdf/src/renderer/io/platform_method_channel.dart';
+import 'package:hpc_pdf/src/renderer/io/platform_pigeon.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 import 'package:universal_platform/universal_platform.dart';
 

@@ -1,6 +1,6 @@
-import 'package:pdfx/src/renderer/web/document/page.dart';
-import 'package:pdfx/src/renderer/web/pdfjs.dart';
-import 'package:pdfx/src/renderer/web/resources/repository.dart';
+import 'package:hpc_pdf/src/renderer/web/document/page.dart';
+import 'package:hpc_pdf/src/renderer/web/pdfjs.dart';
+import 'package:hpc_pdf/src/renderer/web/resources/repository.dart';
 
 class PageRepository<T> extends Repository<Page> {
   /// Register document in repository

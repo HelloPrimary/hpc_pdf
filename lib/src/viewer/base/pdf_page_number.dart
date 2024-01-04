@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:pdfx/src/viewer/base/base_pdf_controller.dart';
+import 'package:hpc_pdf/src/viewer/base/base_pdf_controller.dart';
 
 typedef PdfPageNumberBuilder = Widget Function(
   BuildContext context,

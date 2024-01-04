@@ -1,9 +1,9 @@
 import 'package:flutter/widgets.dart';
-import 'package:pdfx/src/renderer/interfaces/document.dart';
-import 'package:pdfx/src/renderer/interfaces/page.dart';
-import 'package:pdfx/src/viewer/base/base_pdf_builders.dart';
-import 'package:pdfx/src/viewer/base/base_pdf_controller.dart';
-import 'package:pdfx/src/viewer/pdf_page_image_provider.dart';
+import 'package:hpc_pdf/src/renderer/interfaces/document.dart';
+import 'package:hpc_pdf/src/renderer/interfaces/page.dart';
+import 'package:hpc_pdf/src/viewer/base/base_pdf_builders.dart';
+import 'package:hpc_pdf/src/viewer/base/base_pdf_controller.dart';
+import 'package:hpc_pdf/src/viewer/pdf_page_image_provider.dart';
 import 'package:photo_view/photo_view.dart';
 import 'package:photo_view/photo_view_gallery.dart';
 import 'package:synchronized/synchronized.dart';

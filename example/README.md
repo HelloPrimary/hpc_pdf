@@ -3,7 +3,7 @@
 ```dart
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:pdfx/pdf_renderer.dart';
+import 'package:hpc_pdf/pdf_renderer.dart';
 
 void main() async {
   try {
@@ -45,7 +45,7 @@ void main() async {
             ),
           ),
         ),
-        // Images are rendered with an alpha channel. 
+        // Images are rendered with an alpha channel.
         // White background is needed for black tex to be seen.
         color: Colors.white,
       )

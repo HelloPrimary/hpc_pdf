@@ -3,16 +3,16 @@ import 'dart:math';
 
 import 'package:flutter/widgets.dart'
     hide InteractiveViewer, TransformationController;
-import 'package:pdfx/src/renderer/interfaces/document.dart';
-import 'package:pdfx/src/renderer/interfaces/page.dart';
-import 'package:pdfx/src/viewer/base/base_pdf_builders.dart';
-import 'package:pdfx/src/viewer/base/base_pdf_controller.dart';
-import 'package:pdfx/src/viewer/interactive_viewer.dart';
-import 'package:pdfx/src/viewer/wrappers/pdf_texture.dart';
+import 'package:hpc_pdf/src/renderer/interfaces/document.dart';
+import 'package:hpc_pdf/src/renderer/interfaces/page.dart';
+import 'package:hpc_pdf/src/viewer/base/base_pdf_builders.dart';
+import 'package:hpc_pdf/src/viewer/base/base_pdf_controller.dart';
+import 'package:hpc_pdf/src/viewer/interactive_viewer.dart';
+import 'package:hpc_pdf/src/viewer/wrappers/pdf_texture.dart';
 import 'package:universal_platform/universal_platform.dart';
 import 'package:vector_math/vector_math_64.dart' as math64;
 
-export 'package:pdfx/src/viewer/pdf_page_image_provider.dart';
+export 'package:hpc_pdf/src/viewer/pdf_page_image_provider.dart';
 export 'package:photo_view/photo_view.dart';
 export 'package:photo_view/photo_view_gallery.dart';
 

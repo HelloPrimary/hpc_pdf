@@ -3,11 +3,11 @@ import 'dart:typed_data';
 
 import 'package:flutter/painting.dart';
 import 'package:meta/meta.dart';
-import 'package:pdfx/src/renderer/get_pixels/main.dart';
-import 'package:pdfx/src/renderer/interfaces/document.dart';
-import 'package:pdfx/src/renderer/interfaces/page.dart';
-import 'package:pdfx/src/renderer/interfaces/platform.dart';
-import 'package:pdfx/src/renderer/io/pigeon.dart';
+import 'package:hpc_pdf/src/renderer/get_pixels/main.dart';
+import 'package:hpc_pdf/src/renderer/interfaces/document.dart';
+import 'package:hpc_pdf/src/renderer/interfaces/page.dart';
+import 'package:hpc_pdf/src/renderer/interfaces/platform.dart';
+import 'package:hpc_pdf/src/renderer/io/pigeon.dart';
 import 'package:synchronized/synchronized.dart';
 import 'package:universal_platform/universal_platform.dart';
 
