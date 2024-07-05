@@ -3,7 +3,7 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
-  pdfx
+  hpc_pdf
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
